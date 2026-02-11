@@ -1,0 +1,11 @@
+churn_project/
+│
+├── data/
+│   └── telco.csv
+├── notebooks/
+│   └── eda.ipynb
+├── src/
+│   ├── train.py
+│   ├── inference.py
+│   └── utils.py
+└── models/
